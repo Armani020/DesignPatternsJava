@@ -1,0 +1,2 @@
+Here we have a Decorator design pattern. I used rifles as an example. We can modify rifles (add suppressor, zoom etc.)
+with RifleDecorator. I have not added something new but gave my own example of Decorator pattern.
